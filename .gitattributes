@@ -1,12 +1,6 @@
-# Treat Fusion 360 files as binary
 *.f3d binary
 *.f3z binary
-
-# Count them in language statistics
 *.f3d linguist-detectable=true
 *.f3z linguist-detectable=true
 
-# Force GitHub to categorize them as "Binary"
-*.f3d linguist-language=Binary
-*.f3z linguist-language=Binary
 

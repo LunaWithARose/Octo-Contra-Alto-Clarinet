@@ -1,34 +1,12 @@
-###############################################################################
-# Fusion 360 & CAD file handling
-###############################################################################
-
-# Treat Fusion 360 files as binary (prevents corruption)
+# Treat Fusion 360 files as binary
 *.f3d binary
 *.f3z binary
 
-# Include Fusion files in GitHub language statistics
+# Count them in language statistics
 *.f3d linguist-detectable=true
 *.f3z linguist-detectable=true
 
-# Display them as "Fusion360" in GitHub stats (cosmetic only)
-*.f3d linguist-language=Fusion360
-*.f3z linguist-language=Fusion360
+# Force GitHub to categorize them as "Binary"
+*.f3d linguist-language=Binary
+*.f3z linguist-language=Binary
 
-###############################################################################
-# Common 3D/CAD formats (safe)
-###############################################################################
-*.step binary
-*.stp binary
-*.iges binary
-*.igs binary
-*.stl binary
-*.obj -text
-
-###############################################################################
-# Recommend Git LFS for large CAD assets (uncomment if using LFS)
-###############################################################################
-# *.f3d filter=lfs diff=lfs merge=lfs -text
-# *.f3z filter=lfs diff=lfs merge=lfs -text
-# *.step filter=lfs diff=lfs merge=lfs -text
-# *.stl filter=lfs diff=lfs merge=lfs -text
-# *.obj filter=lfs diff=lfs merge=lfs -text

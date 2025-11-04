@@ -15,8 +15,10 @@
 * Bb, first register, second register are all seperate keys
 * Currently only playable from middle A down to C
 
-<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/20250326_173058.jpg" height="500" />
-<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/Screenshot%202025-11-03%20193144.png" height="500" />
+<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/20251104_094806.jpg" height="500" />
+<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/20251104_094259.jpg" height="500" />
+<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/20251104_094514.jpg" height="500" />
+<img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/20251104_094518.jpg" height="500" />
 <img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/Screenshot%202025-11-03%20193225.png" height="500" />
 <img src="https://github.com/LunaWithARose/Octo-Contra-Alto-Clarinet/blob/main/pictures/Screenshot%202025-11-03%20193353.png" height="500" />
 
